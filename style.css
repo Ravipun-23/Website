@@ -74,7 +74,7 @@ header .navbar ul li a:hover:before{
 /*Home section*/
 .home{
 	min-height:100vh;
-	background-image:url("Img/a.jpg");
+	background-image:url("IMG/a.jpg");
 	background-size:cover;
 	background-position:center;
 	padding:15px;
@@ -187,11 +187,11 @@ header .navbar ul li a:hover:before{
 	letter-spacing:2px;
 }
 
-.about-me .about-content .img{
+.about-me .about-content .IMG{
 	flex:0 0 30%;
 	max-width:30%;
 }
-.about-me .about-content .img img{
+.about-me .about-content .IMG IMG{
 	width:100%;
 	display:block;
 	transform:rotateY(180deg);
