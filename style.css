@@ -72,14 +72,14 @@ header .navbar ul li a:hover:before{
 	left:0;
 }
 /*Home section*/
-.home{
-	min-height:100vh;
-	background-image:url("IMG/a.jpg");
-	background-size:cover;
-	background-position:center;
-	padding:15px;
-
+.home {
+  min-height: 100vh;
+  background-image: url("IMG/a.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 15px;
 }
+
 .home .full-screen{
 	min-height:100vh;
 }
